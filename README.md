@@ -1,1 +1,1 @@
-# sturdy-journey
+# first time to clone a project from github using cmd
