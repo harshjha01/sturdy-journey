@@ -1,1 +1,1 @@
-# first time to clone a project from github using cmd
+# first time to clone a project from github using cmd.
